@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://demo.stack.jimmycai.com"
+baseurl = "https://kind-hill-0a1691d03.5.azurestaticapps.net/"
 languageCode = "en-us"
 paginate = 5
 title = "Hugo Theme Stack Starter"

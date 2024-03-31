@@ -16,12 +16,15 @@ On a rainy thursday morning, Caz got us up and out of the house early for a trai
 The Almond Croissants at Hart's are slightly different to other almond croissants as they are not baked as regular croissants and then sliced open, almond filling inserted and rebaked. The almond filling is baked inside from the start.
 
 # Harts Bakery - 26.5/30
-28/03/24 - C
-Size - 4.5/5
-Crumb - 4/5
-Pastry - 5/5
-Filling - 4/5
-Price - 4/5
-Business - 5/5
+**28/03/24 - C**
+
+Category | Score/5
+--------|------
+Size | 4.5
+Crumb | 4
+Pastry | 5
+Filling | 4
+Price | 4
+Business | 5
 
 > The filling was good although it had bunched out at the ends of the croissant instead of evenly throughout, this meant we were lacking filling in the centre. The pastry was unbeatable and possibly the best pastry we have had on our adventures. Overall this was a fantastic almond Croissant.

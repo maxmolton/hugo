@@ -15,10 +15,7 @@ On a rainy thursday morning, Caz got us up and out of the house early for a trai
 
 The Almond Croissants at Hart's are slightly different to other almond croissants as they are not baked as regular croissants and then sliced open, almond filling inserted and rebaked. The almond filling is baked inside from the start.
 
-<img src="harts_280324.jpeg" width="500">
-
-
-![Caz With Croissant](harts_280324.jpeg)
+<img src="harts_280324.jpeg" width="500" class="center">
 
 # Harts Bakery - 26.5/30
 **28/03/24 - C**

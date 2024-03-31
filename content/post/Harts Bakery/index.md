@@ -3,7 +3,7 @@ title: Harts Bakery
 description: A trip to Harts Bakery before an early morning train.
 slug: harts-bakery-280324
 date: 2024-03-28 00:00:00+0000
-image: harts_200324.jpeg
+image: harts_280324.jpeg
 categories:
     - Almond Croissants
 tags:
@@ -14,6 +14,8 @@ weight: 1       # You can add weight to some posts to override the default sorti
 On a rainy thursday morning, Caz got us up and out of the house early for a train up to Newcastle to see family before setting off on the West Highland Way. Obviously we took any excuse to head down to Hart's Bakery, nestled under one of the arches on the approach to Bristol Temple Meads, for a Cappucino and an Almond Croissant.
 
 The Almond Croissants at Hart's are slightly different to other almond croissants as they are not baked as regular croissants and then sliced open, almond filling inserted and rebaked. The almond filling is baked inside from the start.
+
+![Caz With Croissant](harts_280324.jpeg)
 
 # Harts Bakery - 26.5/30
 **28/03/24 - C**

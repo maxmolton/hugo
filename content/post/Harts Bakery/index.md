@@ -8,7 +8,6 @@ categories:
     - Almond Croissants
 tags:
     - Almond Croissants
-weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
 On a rainy thursday morning, Caz got us up and out of the house early for a train up to Newcastle to see family before setting off on the West Highland Way. Obviously we took any excuse to head down to Hart's Bakery, nestled under one of the arches on the approach to Bristol Temple Meads, for a Cappucino and an Almond Croissant.

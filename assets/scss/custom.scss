@@ -8,3 +8,27 @@
     margin-right: auto;
     width: 50%;
   }
+
+.lightbox-youtube {
+    position: relative; display: block;
+}
+.lightbox-youtube::before, .lightbox-youtube::after {
+    content: "";
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+} 
+.lightbox-youtube::before {
+    background: url(/img/youtube_button.svg) center center / auto 4rem no-repeat;
+}
+.lightbox-youtube:hover::before {
+    background: url(/img/youtube_button_hover.svg) center center / auto 4rem no-repeat;
+}
+.lightbox-youtube::after {
+    background: url(/img/youtube.svg) calc(100% - 1rem) calc(100% - 1rem) / auto 2rem no-repeat;
+}
+.lightbox-youtube img {
+    display: block;
+}

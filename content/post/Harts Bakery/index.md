@@ -29,4 +29,6 @@ Filling | 4
 Price | 4
 Business | 5
 
+[![](/uploads/youtube/Kh1c_N2VZPc.jpg)](https://www.youtube.com/watch?v=Kh1c_N2VZPc)
+
 > The filling was good although it had bunched out at the ends of the croissant instead of evenly throughout, this meant we were lacking filling in the centre. The pastry was unbeatable and possibly the best pastry we have had on our adventures. Overall this was a fantastic almond Croissant.

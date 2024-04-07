@@ -20,28 +20,28 @@ Hopefully all of the below scoring makes sense, we are scoring the business as t
 The Price scoring system may change as they all score the same as the ranges are too big!
 
 Size /5
-- width of hand = 2 points
+- Width of hand = 2 points
 - Length of hand = 2 points
 
 Crumb /5
-- visual
+- Visual
 - Distribution of crumb (almonds, icing sugar, etc.)
 - Burnt or crisp
 
 Pastry /5
-- laminations
+- Laminations
 - Crisp
 - Flavour
 - Texture 
 
 Filling /5
-- amount
+- Amount
 - Texture
 - Flavour
 - Moisture
 
 Price /5
-- how much it costs with a cappuccino
+- How much it costs with a cappuccino
     - £6 > 5/5
     - £7 > 4/5
     - £8 > 3/5
@@ -49,7 +49,7 @@ Price /5
     - £10 > 1/5
 
 Business /5
-- this can score above 5 but if it does, it should be rounded down to 5, as there are all important to making the experience enjoyable
+- This can score above 5 but if it does, it should be rounded down to 5, as there are all important to making the experience enjoyable
 - Accessibility - how is it for people who might have difficulties with something? (Sight, movement, etc) - 1.5
 - Staff - friendliness, hygiene, order success, etc - 1.5
 - Location - 1.5 
